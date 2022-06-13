@@ -5,6 +5,7 @@ Pink
 Orange
 Green
 Unicorn
+Black
 Yellow
 Blue
 Red
