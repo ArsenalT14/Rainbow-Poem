@@ -6,7 +6,9 @@ Orange
 Green
 Unicorn
 Grey
+Black
 Yellow
+Brown
 Blue
 Red
 These are the colours of the rainbow 
